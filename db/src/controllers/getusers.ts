@@ -1,29 +1,33 @@
 import prisma from "@/prisma";
 import { Request, Response, NextFunction } from "express";
+import { Prisma } from "@prisma/client";
+
+interface User {
+  id: number;
+  // ... add other user fields based on your schema
+}
 
 // Main function to get users with pagination
-const getUsers: any = async (req: Request, res: Response, next: NextFunction) => {
-    const page = parseInt(req.query.page as string) || 1; // Default to page 1 if not provided
-    const limit = parseInt(req.query.limit as string) || 10; // Default to 10 users per page if not provided
+const getUsers = async (req: Request, res: Response, next: NextFunction) => {
+    const page = parseInt(req.query.page as string) || 1;
+    const limit = parseInt(req.query.limit as string) || 10;
 
     try {
-        // Calculate the skip value (where the query should start)
+        // Calculate the skip value
         const skip = (page - 1) * limit;
 
-        // Fetch the users with pagination
-        const users = await prisma.user.findMany({
-            skip: skip,
-            take: limit, // Limit the number of results returned
-            orderBy: {
-                id: 'desc' // Order by id or any other field you wish
-            }
-        });
+        // Combine both queries into a single database call using Prisma.sql
+        const [users, countResult] = await prisma.$transaction([
+            prisma.$queryRaw<User[]>(
+                Prisma.sql`SELECT * FROM user LIMIT ${limit} OFFSET ${skip}`
+            ),
+            prisma.$queryRaw<[{ count: bigint }]>(
+                Prisma.sql`SELECT COUNT(*) as count FROM user`
+            )
+        ]);
 
-        // Get the total count of users (for pagination info)
-        const totalUsers = await prisma.user.count();
-
-        // Calculate total pages for pagination
-        const totalPages = Math.ceil(totalUsers / limit);
+        const totalUsersCount = Number(countResult[0].count);
+        const totalPages = Math.ceil(totalUsersCount / limit);
 
         return res.status(200).json({
             success: true,
@@ -32,7 +36,7 @@ const getUsers: any = async (req: Request, res: Response, next: NextFunction) =>
                 page,
                 limit,
                 totalPages,
-                totalUsers
+                totalUsers: totalUsersCount
             }
         });
 

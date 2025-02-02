@@ -8,11 +8,7 @@ const getUser: any = async (
 ) => {
     const { id } = req.params;
     try {
-        const findUser = await prisma.user.findUnique({
-            where: {
-                id: Number(id),
-            },
-        });
+        const findUser = await prisma.$queryRaw`SELECT * FROM user WHERE id = ${id}`;
         return res.status(200).json({ success: true, result: findUser });
     } catch (error) {
         return res.status(500).json({ error: (error as Error).message });

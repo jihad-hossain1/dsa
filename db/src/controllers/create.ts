@@ -13,11 +13,7 @@ import { Request, Response, NextFunction } from "express";
             })
         }
 
-        const findUser = await prisma.user.findUnique({
-            where: {
-                email: email
-            }
-        })
+        const findUser = await prisma.$queryRaw`SELECT * FROM user WHERE email = ${email}`;
 
         if(findUser) {
             return res.status(400).json({
@@ -26,13 +22,7 @@ import { Request, Response, NextFunction } from "express";
             })
         }
 
-        const user = await prisma.user.create({
-            data: {
-                name,
-                email
-
-            }
-        })
+        const user = await prisma.$queryRaw`INSERT INTO user (name, email) VALUES (${name}, ${email})`;
 
         return res.status(200).json({
             success: true,

@@ -1,0 +1,972 @@
+[INFO] 2025-01-26T18:33:01.665Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:33:01.668Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:33:01.679Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:01.982Z [Execution time: 304ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:33:02.089Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:02.902Z [Execution time: 813ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:33:03.012Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:03.552Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:33:03.552Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:33:03.556Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:03.563Z [Execution time: 550ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:33:03.668Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:04.266Z [Execution time: 710ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:33:04.374Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:04.586Z [Execution time: 917ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:33:04.698Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:05.185Z [Execution time: 810ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:33:05.288Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:05.472Z [Execution time: 775ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:33:05.479Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:33:05.480Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:33:05.481Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:05.586Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:06.382Z [Execution time: 1094ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:33:06.486Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:06.681Z [Execution time: 1199ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:33:06.782Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:06.908Z [Execution time: 1322ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:33:07.017Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:07.245Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:33:07.245Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:33:07.254Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:07.805Z [Execution time: 1319ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:33:07.907Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:08.126Z [Execution time: 1344ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:33:08.236Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:08.457Z [Execution time: 1440ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:33:08.565Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:08.905Z [Execution time: 1650ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:33:09.021Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:09.313Z [Execution time: 1406ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:33:09.426Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:09.824Z [Execution time: 1587ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:33:09.928Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:10.115Z [Execution time: 1550ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:33:10.229Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:10.695Z [Execution time: 1674ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:33:10.807Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:10.998Z [Execution time: 1572ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:33:11.104Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:11.585Z [Execution time: 1656ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:33:11.699Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:11.894Z [Execution time: 1665ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:33:12.008Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:12.440Z [Execution time: 1633ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:33:12.546Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:12.753Z [Execution time: 1649ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:33:12.857Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:13.283Z [Execution time: 1584ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:33:13.393Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:13.580Z [Execution time: 1572ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:33:13.693Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:14.234Z [Execution time: 1688ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:33:14.337Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:14.439Z [Execution time: 1582ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:33:14.555Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:15.165Z [Execution time: 1772ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:33:15.276Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:15.463Z [Execution time: 1771ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:33:15.567Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:15.967Z [Execution time: 1630ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:33:16.075Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:16.232Z [Execution time: 1677ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:33:16.343Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:16.897Z [Execution time: 1621ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:33:17.000Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:17.363Z [Execution time: 1795ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:33:17.468Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:17.924Z [Execution time: 1849ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:33:18.027Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:18.223Z [Execution time: 1880ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:33:18.335Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:18.843Z [Execution time: 1843ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:33:18.960Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:19.177Z [Execution time: 1709ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:33:19.287Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:20.014Z [Execution time: 1987ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:33:20.115Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:20.168Z [Execution time: 1833ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:33:20.271Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:20.855Z [Execution time: 1895ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:33:20.972Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:21.094Z [Execution time: 1807ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:33:21.207Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:22.088Z [Execution time: 1818ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:33:22.195Z [Execution time: 2080ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:33:22.195Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:22.307Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:22.855Z [Execution time: 1884ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:33:22.971Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:23.194Z [Execution time: 1987ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:33:23.296Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:23.745Z [Execution time: 1550ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:33:23.862Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:24.258Z [Execution time: 1951ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:33:24.359Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:24.741Z [Execution time: 1770ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:33:24.848Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:25.317Z [Execution time: 2021ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:33:25.418Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:25.936Z [Execution time: 2074ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:33:26.052Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:26.622Z [Execution time: 2263ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:33:26.737Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:26.912Z [Execution time: 2064ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:33:27.021Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:27.528Z [Execution time: 2110ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:33:27.642Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:28.162Z [Execution time: 2110ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:33:28.278Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:28.763Z [Execution time: 2026ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:33:28.869Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:28.980Z [Execution time: 1959ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:33:29.089Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:29.521Z [Execution time: 1879ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:33:29.634Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:29.880Z [Execution time: 1602ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:33:29.993Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:30.757Z [Execution time: 1888ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:33:30.869Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:31.089Z [Execution time: 2001ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:33:31.195Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:31.653Z [Execution time: 2020ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:33:31.756Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:31.958Z [Execution time: 1965ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:33:32.068Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:32.916Z [Execution time: 2047ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:33:33.020Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:33.274Z [Execution time: 2078ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:33:33.381Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:33.944Z [Execution time: 2188ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:33:34.049Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:34.274Z [Execution time: 2206ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:33:34.387Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:35.167Z [Execution time: 2148ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:33:35.270Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:35.341Z [Execution time: 1960ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:33:35.455Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:35.994Z [Execution time: 1946ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:33:36.106Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:36.501Z [Execution time: 2113ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:33:36.606Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:37.282Z [Execution time: 2012ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:33:37.384Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:37.633Z [Execution time: 2178ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:33:37.743Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:38.320Z [Execution time: 2214ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:33:38.427Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:38.849Z [Execution time: 2243ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:33:38.956Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:39.413Z [Execution time: 2029ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:33:39.514Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:39.738Z [Execution time: 1995ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:33:39.851Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:40.625Z [Execution time: 2197ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:33:40.740Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:41.007Z [Execution time: 2051ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:33:41.107Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:41.611Z [Execution time: 2097ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:33:41.719Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:41.885Z [Execution time: 2033ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:33:42.001Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:42.822Z [Execution time: 2081ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:33:42.923Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:43.176Z [Execution time: 2068ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:33:43.277Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:43.761Z [Execution time: 2041ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:33:43.865Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:44.241Z [Execution time: 2239ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:33:44.347Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:45.261Z [Execution time: 2338ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:33:45.336Z [Execution time: 2059ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:33:45.373Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:45.452Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:45.892Z [Execution time: 2028ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:33:45.997Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:46.463Z [Execution time: 2116ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:33:46.575Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:47.314Z [Execution time: 1862ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:33:47.322Z [Execution time: 1950ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:33:47.417Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:47.432Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:48.010Z [Execution time: 2014ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:33:48.125Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:48.747Z [Execution time: 2173ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:33:48.861Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:49.814Z [Execution time: 2381ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:33:49.830Z [Execution time: 2413ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:33:49.923Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:49.938Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:50.112Z [Execution time: 1987ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:33:50.214Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:50.782Z [Execution time: 1921ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:33:50.885Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:52.158Z [Execution time: 2236ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:33:52.163Z [Execution time: 2225ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:33:52.272Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:52.276Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:52.406Z [Execution time: 2191ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:33:52.522Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:53.277Z [Execution time: 2392ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:33:53.392Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:54.339Z [Execution time: 2067ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:33:54.344Z [Execution time: 2068ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:33:54.452Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:54.455Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:54.622Z [Execution time: 2100ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:33:54.729Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:55.651Z [Execution time: 2259ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:33:55.758Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:56.642Z [Execution time: 2186ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:33:56.649Z [Execution time: 2197ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:33:56.654Z [Execution time: 54985ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:33:56.745Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:56.865Z [Execution time: 2136ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:33:56.968Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:57.696Z [Execution time: 1938ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:33:57.810Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:58.558Z [Execution time: 1813ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:33:58.575Z [Execution time: 1606ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:33:58.666Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:58.681Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:33:59.045Z [Execution time: 1234ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:33:59.145Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:00.384Z [Execution time: 1703ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:34:00.385Z [Execution time: 1719ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:34:00.389Z [Execution time: 56835ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:34:00.450Z [Execution time: 1304ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:34:00.496Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:00.557Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:01.691Z [Execution time: 1196ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:34:01.705Z [Execution time: 1147ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:34:01.804Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:01.810Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:03.197Z [Execution time: 1394ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:34:03.207Z [Execution time: 1397ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:34:03.211Z [Execution time: 57731ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:34:03.300Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:04.142Z [Execution time: 842ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:34:04.246Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:04.894Z [Execution time: 648ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:34:04.899Z [Execution time: 57652ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:34:33.634Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:34:33.635Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:34:33.637Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:34.070Z [Execution time: 433ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:34:34.173Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:34.594Z [Execution time: 422ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:34:34.704Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:35.430Z [Execution time: 726ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:34:35.545Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:35.967Z [Execution time: 423ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:34:36.076Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:36.529Z [Execution time: 453ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:34:36.634Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:36.743Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:34:36.744Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:34:36.745Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:37.161Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:34:37.162Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:34:37.162Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:37.309Z [Execution time: 675ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:34:37.410Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:37.792Z [Execution time: 1047ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:34:37.906Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:38.277Z [Execution time: 1114ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:34:38.338Z [Execution time: 927ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:34:38.388Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:38.450Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:38.823Z [Execution time: 917ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:34:38.934Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:39.159Z - Starting batch creation request {"amount":30000}
+[INFO] 2025-01-26T18:34:39.159Z - Initializing batch process {"usersToCreate":30000,"batchCount":30,"batchSize":1000}
+[INFO] 2025-01-26T18:34:39.160Z - Processing batch 1/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:39.724Z [Execution time: 1274ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:34:39.726Z [Execution time: 1338ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:34:39.826Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:39.829Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:40.358Z [Execution time: 1424ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:34:40.469Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:40.651Z [Execution time: 1491ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:34:40.765Z - Processing batch 2/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:41.528Z [Execution time: 1699ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:34:41.535Z [Execution time: 1709ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:34:41.633Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:41.643Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:41.883Z [Execution time: 1414ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:34:41.992Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:42.335Z [Execution time: 1570ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:34:42.447Z - Processing batch 3/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:43.367Z [Execution time: 1725ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:34:43.371Z [Execution time: 1739ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:34:43.481Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:43.484Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:43.674Z [Execution time: 1683ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:34:43.779Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:43.953Z [Execution time: 1507ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:34:44.064Z - Processing batch 4/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:45.065Z [Execution time: 1581ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:34:45.068Z [Execution time: 1586ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:34:45.169Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:45.173Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:45.447Z [Execution time: 1668ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:34:45.556Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:45.971Z [Execution time: 1907ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:34:46.075Z - Processing batch 5/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:46.881Z [Execution time: 1712ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:34:46.884Z [Execution time: 1711ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:34:46.989Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:46.991Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:47.144Z [Execution time: 1588ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:34:47.253Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:47.741Z [Execution time: 1666ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:34:47.846Z - Processing batch 6/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:48.681Z [Execution time: 1690ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:34:48.682Z [Execution time: 1694ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:34:48.733Z [Execution time: 1480ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:34:48.791Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:48.794Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:48.838Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:49.407Z [Execution time: 1561ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:34:49.521Z - Processing batch 7/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:50.907Z [Execution time: 2113ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:34:50.911Z [Execution time: 2120ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:34:50.914Z [Execution time: 2077ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:34:50.984Z [Execution time: 1463ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:34:51.014Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:51.017Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:51.020Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:51.093Z - Processing batch 8/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:52.761Z [Execution time: 1748ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:34:52.763Z [Execution time: 1746ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:34:52.764Z [Execution time: 1745ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:34:52.773Z [Execution time: 1681ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:34:52.870Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:52.874Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:52.878Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:52.881Z - Processing batch 9/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:55.029Z [Execution time: 2148ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:34:55.033Z [Execution time: 2156ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:34:55.034Z [Execution time: 2161ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:34:55.039Z [Execution time: 2169ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:34:55.131Z - Processing batch 10/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:55.141Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:55.145Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:55.148Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:57.241Z [Execution time: 2100ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:34:57.243Z [Execution time: 2112ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:34:57.245Z [Execution time: 2097ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:34:57.249Z [Execution time: 2105ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:34:57.356Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:57.360Z - Processing batch 11/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:57.363Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:57.367Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:59.461Z [Execution time: 2105ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:34:59.462Z [Execution time: 2096ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:34:59.464Z [Execution time: 2104ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:34:59.464Z [Execution time: 2101ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:34:59.568Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:59.575Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:59.577Z - Processing batch 12/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:34:59.582Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:01.848Z [Execution time: 2280ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:35:01.961Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:02.056Z [Execution time: 2481ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:35:02.063Z [Execution time: 2485ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:35:02.074Z [Execution time: 2492ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:35:02.164Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:02.166Z - Processing batch 13/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:02.175Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:03.721Z [Execution time: 1760ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:35:03.837Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:04.535Z [Execution time: 2371ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:35:04.538Z [Execution time: 2363ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:35:04.541Z [Execution time: 2375ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:35:04.644Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:04.647Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:04.649Z - Processing batch 14/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:05.592Z [Execution time: 1756ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:35:05.701Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:06.997Z [Execution time: 2351ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:35:06.998Z [Execution time: 2354ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:35:06.999Z [Execution time: 2350ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:35:07.105Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:07.110Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:07.114Z - Processing batch 15/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:07.623Z [Execution time: 1921ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:35:07.728Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:09.172Z [Execution time: 2059ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:35:09.175Z [Execution time: 2064ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:35:09.177Z [Execution time: 2073ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:35:09.281Z - Processing batch 16/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:09.283Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:09.286Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:09.740Z [Execution time: 2012ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:35:09.853Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:11.568Z [Execution time: 2287ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:35:11.570Z [Execution time: 2287ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:35:11.575Z [Execution time: 2289ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:35:11.679Z - Processing batch 17/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:11.682Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:11.684Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:11.789Z [Execution time: 1936ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:35:11.896Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:14.130Z [Execution time: 2446ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:35:14.133Z [Execution time: 2451ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:35:14.134Z [Execution time: 2456ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:35:14.160Z [Execution time: 2264ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:35:14.243Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:14.246Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:14.249Z - Processing batch 18/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:14.276Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:16.316Z [Execution time: 2067ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:35:16.324Z [Execution time: 2081ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:35:16.325Z [Execution time: 2079ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:35:16.358Z [Execution time: 2082ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:35:16.434Z - Processing batch 19/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:16.440Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:16.444Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:16.464Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:18.630Z [Execution time: 2196ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:35:18.631Z [Execution time: 2191ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:35:18.640Z [Execution time: 2176ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:35:18.646Z [Execution time: 2203ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:35:18.733Z - Processing batch 20/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:18.737Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:18.749Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:18.751Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:20.756Z [Execution time: 2019ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:35:20.868Z [Execution time: 2134ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:35:20.868Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:20.979Z - Processing batch 21/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:21.009Z [Execution time: 2259ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:35:21.011Z [Execution time: 2260ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:35:21.121Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:21.128Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:23.012Z [Execution time: 2033ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:35:23.017Z [Execution time: 2149ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:35:23.118Z - Processing batch 22/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:23.124Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:23.363Z [Execution time: 2235ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:35:23.365Z [Execution time: 2244ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:35:23.477Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:23.482Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:25.119Z [Execution time: 2001ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:35:25.124Z [Execution time: 2000ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:35:25.223Z - Processing batch 23/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:25.225Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:25.626Z [Execution time: 2145ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:35:25.629Z [Execution time: 2152ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:35:25.733Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:25.740Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:27.299Z [Execution time: 2077ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:35:27.312Z [Execution time: 2087ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:35:27.401Z - Processing batch 24/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:27.416Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:27.996Z [Execution time: 2263ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:35:27.997Z [Execution time: 2257ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:35:28.004Z [Execution time: 54369ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:35:28.110Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:29.449Z [Execution time: 2048ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:35:29.451Z [Execution time: 2036ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:35:29.562Z - Processing batch 25/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:29.564Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:30.131Z [Execution time: 2022ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:35:30.241Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:31.240Z [Execution time: 1678ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:35:31.245Z [Execution time: 1681ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:35:31.352Z - Processing batch 26/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:31.356Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:31.592Z [Execution time: 1351ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:35:31.717Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:33.222Z [Execution time: 1866ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:35:33.229Z [Execution time: 1877ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:35:33.280Z [Execution time: 1563ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:35:33.335Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:33.339Z - Processing batch 27/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:33.382Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:34.998Z [Execution time: 1663ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:35:35.007Z [Execution time: 1669ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:35:35.098Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:35.114Z - Processing batch 28/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:35.229Z [Execution time: 1847ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:35:35.259Z [Execution time: 58515ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:35:36.458Z [Execution time: 1344ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:35:36.460Z [Execution time: 1362ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:35:36.567Z - Processing batch 29/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:36.569Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:37.584Z [Execution time: 1017ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:35:37.588Z [Execution time: 1019ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:35:37.592Z [Execution time: 60431ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:35:37.689Z - Processing batch 30/30 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:35:38.355Z [Execution time: 666ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:35:38.375Z [Execution time: 59216ms] - Batch creation completed {"totalUsersRequested":30000,"totalCreated":30000,"batchCount":30}
+[INFO] 2025-01-26T18:37:36.859Z - Starting batch creation request {"amount":30000000}
+[INFO] 2025-01-26T18:37:36.859Z - Initializing batch process {"usersToCreate":100000,"batchCount":100,"batchSize":1000}
+[INFO] 2025-01-26T18:37:36.861Z - Processing batch 1/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:37.185Z [Execution time: 324ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:37:37.287Z - Processing batch 2/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:37.900Z [Execution time: 614ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:37:38.003Z - Processing batch 3/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:38.468Z [Execution time: 466ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:37:38.579Z - Processing batch 4/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:39.027Z [Execution time: 448ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:37:39.140Z - Processing batch 5/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:39.209Z - Starting batch creation request {"amount":30000000}
+[INFO] 2025-01-26T18:37:39.210Z - Initializing batch process {"usersToCreate":100000,"batchCount":100,"batchSize":1000}
+[INFO] 2025-01-26T18:37:39.211Z - Processing batch 1/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:39.952Z [Execution time: 812ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:37:39.999Z [Execution time: 789ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:37:40.065Z - Processing batch 6/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:40.110Z - Processing batch 2/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:40.816Z [Execution time: 751ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:37:40.886Z - Starting batch creation request {"amount":30000000}
+[INFO] 2025-01-26T18:37:40.887Z - Initializing batch process {"usersToCreate":100000,"batchCount":100,"batchSize":1000}
+[INFO] 2025-01-26T18:37:40.889Z - Processing batch 1/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:40.893Z [Execution time: 783ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:37:40.926Z - Processing batch 7/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:41.002Z - Processing batch 3/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:41.915Z [Execution time: 1025ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:37:42.029Z - Processing batch 2/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:42.148Z [Execution time: 1147ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:37:42.157Z [Execution time: 1231ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:37:42.261Z - Processing batch 4/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:42.263Z - Processing batch 8/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:42.562Z - Starting batch creation request {"amount":30000000}
+[INFO] 2025-01-26T18:37:42.562Z - Initializing batch process {"usersToCreate":100000,"batchCount":100,"batchSize":1000}
+[INFO] 2025-01-26T18:37:42.563Z - Processing batch 1/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:43.129Z [Execution time: 1100ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:37:43.237Z - Processing batch 3/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:43.766Z [Execution time: 1506ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:37:43.772Z [Execution time: 1508ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:37:43.869Z - Processing batch 5/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:43.876Z - Processing batch 9/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:44.264Z [Execution time: 1701ms] - Completed batch 1 {"batchNumber":1,"usersCreated":1000,"totalCreated":1000}
+[INFO] 2025-01-26T18:37:44.378Z - Processing batch 2/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:44.824Z [Execution time: 1587ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:37:44.939Z - Processing batch 4/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:45.575Z [Execution time: 1707ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:37:45.579Z [Execution time: 1703ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:37:45.646Z [Execution time: 1268ms] - Completed batch 2 {"batchNumber":2,"usersCreated":1000,"totalCreated":2000}
+[INFO] 2025-01-26T18:37:45.684Z - Processing batch 6/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:45.689Z - Processing batch 10/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:45.749Z - Processing batch 3/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:46.199Z [Execution time: 1260ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:37:46.312Z - Processing batch 5/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:47.325Z [Execution time: 1636ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:37:47.327Z [Execution time: 1643ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:37:47.328Z [Execution time: 1579ms] - Completed batch 3 {"batchNumber":3,"usersCreated":1000,"totalCreated":3000}
+[INFO] 2025-01-26T18:37:47.432Z - Processing batch 11/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:47.443Z - Processing batch 7/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:47.449Z - Processing batch 4/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:47.623Z [Execution time: 1311ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:37:47.726Z - Processing batch 6/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:49.072Z [Execution time: 1629ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:37:49.074Z [Execution time: 1643ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:37:49.080Z [Execution time: 1631ms] - Completed batch 4 {"batchNumber":4,"usersCreated":1000,"totalCreated":4000}
+[INFO] 2025-01-26T18:37:49.114Z [Execution time: 1387ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:37:49.178Z - Processing batch 8/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:49.180Z - Processing batch 12/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:49.183Z - Processing batch 5/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:49.224Z - Processing batch 7/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:51.136Z [Execution time: 1958ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:37:51.141Z [Execution time: 1962ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:37:51.142Z [Execution time: 1960ms] - Completed batch 5 {"batchNumber":5,"usersCreated":1000,"totalCreated":5000}
+[INFO] 2025-01-26T18:37:51.150Z [Execution time: 1927ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:37:51.248Z - Processing batch 9/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:51.251Z - Processing batch 13/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:51.256Z - Processing batch 6/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:51.260Z - Processing batch 8/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:53.154Z [Execution time: 1906ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:37:53.221Z [Execution time: 1969ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:37:53.224Z [Execution time: 1968ms] - Completed batch 6 {"batchNumber":6,"usersCreated":1000,"totalCreated":6000}
+[INFO] 2025-01-26T18:37:53.228Z [Execution time: 1968ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:37:53.258Z - Processing batch 10/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:53.335Z - Processing batch 14/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:53.343Z - Processing batch 7/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:53.347Z - Processing batch 9/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:54.438Z [Execution time: 1180ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:37:54.546Z - Processing batch 11/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:55.299Z [Execution time: 1965ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:37:55.305Z [Execution time: 1962ms] - Completed batch 7 {"batchNumber":7,"usersCreated":1000,"totalCreated":7000}
+[INFO] 2025-01-26T18:37:55.312Z [Execution time: 1965ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:37:55.407Z - Processing batch 15/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:55.412Z - Processing batch 8/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:55.418Z - Processing batch 10/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:56.062Z [Execution time: 1515ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:37:56.171Z - Processing batch 12/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:57.458Z [Execution time: 2046ms] - Completed batch 8 {"batchNumber":8,"usersCreated":1000,"totalCreated":8000}
+[INFO] 2025-01-26T18:37:57.459Z [Execution time: 2052ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:37:57.465Z [Execution time: 2047ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:37:57.554Z [Execution time: 1384ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:37:57.570Z - Processing batch 9/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:57.574Z - Processing batch 16/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:57.577Z - Processing batch 11/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:57.662Z - Processing batch 13/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:59.600Z [Execution time: 2030ms] - Completed batch 9 {"batchNumber":9,"usersCreated":1000,"totalCreated":9000}
+[INFO] 2025-01-26T18:37:59.609Z [Execution time: 2034ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:37:59.611Z [Execution time: 2033ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:37:59.616Z [Execution time: 1953ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:37:59.715Z - Processing batch 10/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:59.717Z - Processing batch 17/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:59.720Z - Processing batch 12/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:37:59.724Z - Processing batch 14/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:01.825Z [Execution time: 2108ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:38:01.829Z [Execution time: 2114ms] - Completed batch 10 {"batchNumber":10,"usersCreated":1000,"totalCreated":10000}
+[INFO] 2025-01-26T18:38:01.835Z [Execution time: 2115ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:38:01.840Z [Execution time: 2116ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:38:01.927Z - Processing batch 18/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:01.931Z - Processing batch 11/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:01.937Z - Processing batch 13/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:01.942Z - Processing batch 15/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:03.916Z [Execution time: 1989ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:38:04.021Z - Processing batch 19/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:04.179Z [Execution time: 2248ms] - Completed batch 11 {"batchNumber":11,"usersCreated":1000,"totalCreated":11000}
+[INFO] 2025-01-26T18:38:04.188Z [Execution time: 2246ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:38:04.189Z [Execution time: 2252ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:38:04.285Z - Processing batch 12/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:04.290Z - Processing batch 16/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:04.293Z - Processing batch 14/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:05.960Z [Execution time: 1939ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:38:06.060Z [Execution time: 1775ms] - Completed batch 12 {"batchNumber":12,"usersCreated":1000,"totalCreated":12000}
+[INFO] 2025-01-26T18:38:06.073Z - Processing batch 20/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:06.167Z - Processing batch 13/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:06.189Z [Execution time: 1896ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:38:06.306Z - Processing batch 15/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:06.362Z [Execution time: 2072ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:38:06.476Z - Processing batch 17/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:08.073Z [Execution time: 1906ms] - Completed batch 13 {"batchNumber":13,"usersCreated":1000,"totalCreated":13000}
+[INFO] 2025-01-26T18:38:08.073Z [Execution time: 2001ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:38:08.079Z [Execution time: 1774ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:38:08.188Z - Processing batch 14/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:08.190Z - Processing batch 21/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:08.192Z - Processing batch 16/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:08.440Z [Execution time: 1963ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:38:08.542Z - Processing batch 18/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:10.442Z [Execution time: 2252ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:38:10.478Z [Execution time: 2291ms] - Completed batch 14 {"batchNumber":14,"usersCreated":1000,"totalCreated":14000}
+[INFO] 2025-01-26T18:38:10.480Z [Execution time: 2289ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:38:10.516Z [Execution time: 1974ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:38:10.554Z - Processing batch 22/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:10.585Z - Processing batch 15/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:10.593Z - Processing batch 17/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:10.630Z - Processing batch 19/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:12.373Z [Execution time: 1819ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:38:12.487Z - Processing batch 23/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:12.764Z [Execution time: 2179ms] - Completed batch 15 {"batchNumber":15,"usersCreated":1000,"totalCreated":15000}
+[INFO] 2025-01-26T18:38:12.770Z [Execution time: 2177ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:38:12.789Z [Execution time: 2160ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:38:12.875Z - Processing batch 16/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:12.877Z - Processing batch 18/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:12.905Z - Processing batch 20/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:14.389Z [Execution time: 1902ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:38:14.493Z - Processing batch 24/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:15.090Z [Execution time: 2185ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:38:15.092Z [Execution time: 2217ms] - Completed batch 16 {"batchNumber":16,"usersCreated":1000,"totalCreated":16000}
+[INFO] 2025-01-26T18:38:15.098Z [Execution time: 2221ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:38:15.191Z - Processing batch 21/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:15.194Z - Processing batch 17/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:15.199Z - Processing batch 19/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:16.433Z [Execution time: 1940ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:38:16.546Z - Processing batch 25/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:17.495Z [Execution time: 2301ms] - Completed batch 17 {"batchNumber":17,"usersCreated":1000,"totalCreated":17000}
+[INFO] 2025-01-26T18:38:17.499Z [Execution time: 2301ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:38:17.506Z [Execution time: 2315ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:38:17.605Z - Processing batch 18/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:17.611Z - Processing batch 20/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:17.616Z - Processing batch 22/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:18.285Z [Execution time: 1739ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:38:18.398Z - Processing batch 26/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:19.862Z [Execution time: 2251ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:38:19.865Z [Execution time: 2249ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:38:19.865Z [Execution time: 2261ms] - Completed batch 18 {"batchNumber":18,"usersCreated":1000,"totalCreated":18000}
+[INFO] 2025-01-26T18:38:19.976Z - Processing batch 21/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:19.978Z - Processing batch 23/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:19.980Z - Processing batch 19/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:20.162Z [Execution time: 1764ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:38:20.274Z - Processing batch 27/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:22.151Z [Execution time: 2173ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:38:22.160Z [Execution time: 2180ms] - Completed batch 19 {"batchNumber":19,"usersCreated":1000,"totalCreated":19000}
+[INFO] 2025-01-26T18:38:22.161Z [Execution time: 2185ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:38:22.255Z - Processing batch 24/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:22.270Z - Processing batch 20/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:22.273Z - Processing batch 22/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:22.387Z [Execution time: 2113ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:38:22.499Z - Processing batch 28/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:24.295Z [Execution time: 2025ms] - Completed batch 20 {"batchNumber":20,"usersCreated":1000,"totalCreated":20000}
+[INFO] 2025-01-26T18:38:24.406Z - Processing batch 21/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:24.517Z [Execution time: 2263ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:38:24.527Z [Execution time: 2254ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:38:24.578Z [Execution time: 2079ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:38:24.626Z - Processing batch 25/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:24.629Z - Processing batch 23/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:24.688Z - Processing batch 29/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:26.589Z [Execution time: 2183ms] - Completed batch 21 {"batchNumber":21,"usersCreated":1000,"totalCreated":21000}
+[INFO] 2025-01-26T18:38:26.698Z - Processing batch 22/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:27.431Z [Execution time: 2743ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:38:27.447Z [Execution time: 2818ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:38:27.456Z [Execution time: 2830ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:38:27.534Z - Processing batch 30/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:27.549Z - Processing batch 24/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:27.565Z - Processing batch 26/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:28.484Z [Execution time: 1786ms] - Completed batch 22 {"batchNumber":22,"usersCreated":1000,"totalCreated":22000}
+[INFO] 2025-01-26T18:38:28.586Z - Processing batch 23/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:29.761Z [Execution time: 2212ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:38:29.863Z - Processing batch 25/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:29.882Z [Execution time: 2348ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:38:29.894Z [Execution time: 2329ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:38:29.985Z - Processing batch 31/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:30.001Z - Processing batch 27/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:30.549Z [Execution time: 1964ms] - Completed batch 23 {"batchNumber":23,"usersCreated":1000,"totalCreated":23000}
+[INFO] 2025-01-26T18:38:30.653Z - Processing batch 24/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:31.470Z [Execution time: 1607ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:38:31.582Z - Processing batch 26/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:32.392Z [Execution time: 2408ms] - Completed batch 31 {"batchNumber":31,"usersCreated":1000,"totalCreated":31000}
+[INFO] 2025-01-26T18:38:32.394Z [Execution time: 2393ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:38:32.506Z - Processing batch 32/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:32.509Z - Processing batch 28/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:32.748Z [Execution time: 2095ms] - Completed batch 24 {"batchNumber":24,"usersCreated":1000,"totalCreated":24000}
+[INFO] 2025-01-26T18:38:32.861Z - Processing batch 25/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:33.798Z [Execution time: 2215ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:38:33.906Z - Processing batch 27/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:34.729Z [Execution time: 2221ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:38:34.732Z [Execution time: 2226ms] - Completed batch 32 {"batchNumber":32,"usersCreated":1000,"totalCreated":32000}
+[INFO] 2025-01-26T18:38:34.839Z - Processing batch 29/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:34.842Z - Processing batch 33/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:35.001Z [Execution time: 2140ms] - Completed batch 25 {"batchNumber":25,"usersCreated":1000,"totalCreated":25000}
+[INFO] 2025-01-26T18:38:35.104Z - Processing batch 26/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:35.982Z [Execution time: 2076ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:38:36.097Z - Processing batch 28/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:37.144Z [Execution time: 2301ms] - Completed batch 33 {"batchNumber":33,"usersCreated":1000,"totalCreated":33000}
+[INFO] 2025-01-26T18:38:37.255Z - Processing batch 34/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:37.355Z [Execution time: 2515ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:38:37.394Z [Execution time: 2291ms] - Completed batch 26 {"batchNumber":26,"usersCreated":1000,"totalCreated":26000}
+[INFO] 2025-01-26T18:38:37.457Z - Processing batch 30/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:37.504Z - Processing batch 27/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:38.295Z [Execution time: 2198ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:38:38.398Z - Processing batch 29/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:39.155Z [Execution time: 1900ms] - Completed batch 34 {"batchNumber":34,"usersCreated":1000,"totalCreated":34000}
+[INFO] 2025-01-26T18:38:39.270Z - Processing batch 35/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:39.468Z [Execution time: 2011ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:38:39.472Z [Execution time: 1969ms] - Completed batch 27 {"batchNumber":27,"usersCreated":1000,"totalCreated":27000}
+[INFO] 2025-01-26T18:38:39.578Z - Processing batch 31/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:39.582Z - Processing batch 28/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:40.428Z [Execution time: 2030ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:38:40.538Z - Processing batch 30/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:41.345Z [Execution time: 2075ms] - Completed batch 35 {"batchNumber":35,"usersCreated":1000,"totalCreated":35000}
+[INFO] 2025-01-26T18:38:41.458Z - Processing batch 36/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:42.098Z [Execution time: 2516ms] - Completed batch 28 {"batchNumber":28,"usersCreated":1000,"totalCreated":28000}
+[INFO] 2025-01-26T18:38:42.100Z [Execution time: 2522ms] - Completed batch 31 {"batchNumber":31,"usersCreated":1000,"totalCreated":31000}
+[INFO] 2025-01-26T18:38:42.211Z - Processing batch 29/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:42.215Z - Processing batch 32/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:42.801Z [Execution time: 2262ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:38:42.911Z - Processing batch 31/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:43.760Z [Execution time: 2302ms] - Completed batch 36 {"batchNumber":36,"usersCreated":1000,"totalCreated":36000}
+[INFO] 2025-01-26T18:38:43.876Z - Processing batch 37/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:44.587Z [Execution time: 2377ms] - Completed batch 29 {"batchNumber":29,"usersCreated":1000,"totalCreated":29000}
+[INFO] 2025-01-26T18:38:44.589Z [Execution time: 2374ms] - Completed batch 32 {"batchNumber":32,"usersCreated":1000,"totalCreated":32000}
+[INFO] 2025-01-26T18:38:44.698Z - Processing batch 30/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:44.705Z - Processing batch 33/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:45.267Z [Execution time: 2355ms] - Completed batch 31 {"batchNumber":31,"usersCreated":1000,"totalCreated":31000}
+[INFO] 2025-01-26T18:38:45.378Z - Processing batch 32/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:45.911Z [Execution time: 2035ms] - Completed batch 37 {"batchNumber":37,"usersCreated":1000,"totalCreated":37000}
+[INFO] 2025-01-26T18:38:46.012Z - Processing batch 38/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:46.822Z [Execution time: 2117ms] - Completed batch 33 {"batchNumber":33,"usersCreated":1000,"totalCreated":33000}
+[INFO] 2025-01-26T18:38:46.825Z [Execution time: 2126ms] - Completed batch 30 {"batchNumber":30,"usersCreated":1000,"totalCreated":30000}
+[INFO] 2025-01-26T18:38:46.925Z - Processing batch 34/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:46.928Z - Processing batch 31/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:47.449Z [Execution time: 2070ms] - Completed batch 32 {"batchNumber":32,"usersCreated":1000,"totalCreated":32000}
+[INFO] 2025-01-26T18:38:47.558Z - Processing batch 33/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:48.048Z [Execution time: 2036ms] - Completed batch 38 {"batchNumber":38,"usersCreated":1000,"totalCreated":38000}
+[INFO] 2025-01-26T18:38:48.157Z - Processing batch 39/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:49.175Z [Execution time: 2250ms] - Completed batch 34 {"batchNumber":34,"usersCreated":1000,"totalCreated":34000}
+[INFO] 2025-01-26T18:38:49.179Z [Execution time: 2251ms] - Completed batch 31 {"batchNumber":31,"usersCreated":1000,"totalCreated":31000}
+[INFO] 2025-01-26T18:38:49.277Z - Processing batch 35/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:49.281Z - Processing batch 32/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:49.506Z [Execution time: 1947ms] - Completed batch 33 {"batchNumber":33,"usersCreated":1000,"totalCreated":33000}
+[INFO] 2025-01-26T18:38:49.607Z - Processing batch 34/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:50.110Z [Execution time: 1953ms] - Completed batch 39 {"batchNumber":39,"usersCreated":1000,"totalCreated":39000}
+[INFO] 2025-01-26T18:38:50.225Z - Processing batch 40/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:51.279Z [Execution time: 1998ms] - Completed batch 32 {"batchNumber":32,"usersCreated":1000,"totalCreated":32000}
+[INFO] 2025-01-26T18:38:51.282Z [Execution time: 2005ms] - Completed batch 35 {"batchNumber":35,"usersCreated":1000,"totalCreated":35000}
+[INFO] 2025-01-26T18:38:51.388Z - Processing batch 33/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:51.394Z - Processing batch 36/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:51.592Z [Execution time: 1986ms] - Completed batch 34 {"batchNumber":34,"usersCreated":1000,"totalCreated":34000}
+[INFO] 2025-01-26T18:38:51.697Z - Processing batch 35/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:52.223Z [Execution time: 1998ms] - Completed batch 40 {"batchNumber":40,"usersCreated":1000,"totalCreated":40000}
+[INFO] 2025-01-26T18:38:52.333Z - Processing batch 41/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:53.590Z [Execution time: 2202ms] - Completed batch 33 {"batchNumber":33,"usersCreated":1000,"totalCreated":33000}
+[INFO] 2025-01-26T18:38:53.600Z [Execution time: 2206ms] - Completed batch 36 {"batchNumber":36,"usersCreated":1000,"totalCreated":36000}
+[INFO] 2025-01-26T18:38:53.702Z - Processing batch 34/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:53.706Z - Processing batch 37/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:53.841Z [Execution time: 2144ms] - Completed batch 35 {"batchNumber":35,"usersCreated":1000,"totalCreated":35000}
+[INFO] 2025-01-26T18:38:53.951Z - Processing batch 36/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:54.621Z [Execution time: 2288ms] - Completed batch 41 {"batchNumber":41,"usersCreated":1000,"totalCreated":41000}
+[INFO] 2025-01-26T18:38:54.727Z - Processing batch 42/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:56.222Z [Execution time: 2516ms] - Completed batch 37 {"batchNumber":37,"usersCreated":1000,"totalCreated":37000}
+[INFO] 2025-01-26T18:38:56.225Z [Execution time: 2523ms] - Completed batch 34 {"batchNumber":34,"usersCreated":1000,"totalCreated":34000}
+[INFO] 2025-01-26T18:38:56.322Z - Processing batch 38/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:56.326Z - Processing batch 35/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:56.497Z [Execution time: 2547ms] - Completed batch 36 {"batchNumber":36,"usersCreated":1000,"totalCreated":36000}
+[INFO] 2025-01-26T18:38:56.605Z - Processing batch 37/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:57.051Z [Execution time: 2324ms] - Completed batch 42 {"batchNumber":42,"usersCreated":1000,"totalCreated":42000}
+[INFO] 2025-01-26T18:38:57.167Z - Processing batch 43/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:58.390Z [Execution time: 2064ms] - Completed batch 35 {"batchNumber":35,"usersCreated":1000,"totalCreated":35000}
+[INFO] 2025-01-26T18:38:58.506Z - Processing batch 36/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:58.568Z [Execution time: 2245ms] - Completed batch 38 {"batchNumber":38,"usersCreated":1000,"totalCreated":38000}
+[INFO] 2025-01-26T18:38:58.624Z [Execution time: 2020ms] - Completed batch 37 {"batchNumber":37,"usersCreated":1000,"totalCreated":37000}
+[INFO] 2025-01-26T18:38:58.679Z - Processing batch 39/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:58.725Z - Processing batch 38/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:38:59.199Z [Execution time: 2032ms] - Completed batch 43 {"batchNumber":43,"usersCreated":1000,"totalCreated":43000}
+[INFO] 2025-01-26T18:38:59.311Z - Processing batch 44/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:00.523Z [Execution time: 2017ms] - Completed batch 36 {"batchNumber":36,"usersCreated":1000,"totalCreated":36000}
+[INFO] 2025-01-26T18:39:00.636Z - Processing batch 37/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:00.896Z [Execution time: 2171ms] - Completed batch 38 {"batchNumber":38,"usersCreated":1000,"totalCreated":38000}
+[INFO] 2025-01-26T18:39:00.908Z [Execution time: 2229ms] - Completed batch 39 {"batchNumber":39,"usersCreated":1000,"totalCreated":39000}
+[INFO] 2025-01-26T18:39:01.011Z - Processing batch 39/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:01.013Z - Processing batch 40/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:01.488Z [Execution time: 2177ms] - Completed batch 44 {"batchNumber":44,"usersCreated":1000,"totalCreated":44000}
+[INFO] 2025-01-26T18:39:01.600Z - Processing batch 45/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:02.729Z [Execution time: 2093ms] - Completed batch 37 {"batchNumber":37,"usersCreated":1000,"totalCreated":37000}
+[INFO] 2025-01-26T18:39:02.842Z - Processing batch 38/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:03.018Z [Execution time: 2005ms] - Completed batch 40 {"batchNumber":40,"usersCreated":1000,"totalCreated":40000}
+[INFO] 2025-01-26T18:39:03.024Z [Execution time: 2013ms] - Completed batch 39 {"batchNumber":39,"usersCreated":1000,"totalCreated":39000}
+[INFO] 2025-01-26T18:39:03.120Z - Processing batch 41/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:03.125Z - Processing batch 40/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:03.662Z [Execution time: 2063ms] - Completed batch 45 {"batchNumber":45,"usersCreated":1000,"totalCreated":45000}
+[INFO] 2025-01-26T18:39:03.764Z - Processing batch 46/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:05.173Z [Execution time: 2330ms] - Completed batch 38 {"batchNumber":38,"usersCreated":1000,"totalCreated":38000}
+[INFO] 2025-01-26T18:39:05.199Z [Execution time: 2074ms] - Completed batch 40 {"batchNumber":40,"usersCreated":1000,"totalCreated":40000}
+[INFO] 2025-01-26T18:39:05.203Z [Execution time: 2083ms] - Completed batch 41 {"batchNumber":41,"usersCreated":1000,"totalCreated":41000}
+[INFO] 2025-01-26T18:39:05.286Z - Processing batch 39/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:05.301Z - Processing batch 41/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:05.317Z - Processing batch 42/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:05.762Z [Execution time: 1998ms] - Completed batch 46 {"batchNumber":46,"usersCreated":1000,"totalCreated":46000}
+[INFO] 2025-01-26T18:39:05.874Z - Processing batch 47/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:07.455Z [Execution time: 2138ms] - Completed batch 42 {"batchNumber":42,"usersCreated":1000,"totalCreated":42000}
+[INFO] 2025-01-26T18:39:07.459Z [Execution time: 2173ms] - Completed batch 39 {"batchNumber":39,"usersCreated":1000,"totalCreated":39000}
+[INFO] 2025-01-26T18:39:07.460Z [Execution time: 2160ms] - Completed batch 41 {"batchNumber":41,"usersCreated":1000,"totalCreated":41000}
+[INFO] 2025-01-26T18:39:07.537Z [Execution time: 1663ms] - Completed batch 47 {"batchNumber":47,"usersCreated":1000,"totalCreated":47000}
+[INFO] 2025-01-26T18:39:07.568Z - Processing batch 43/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:07.571Z - Processing batch 40/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:07.575Z - Processing batch 42/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:07.646Z - Processing batch 48/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:09.831Z [Execution time: 2259ms] - Completed batch 40 {"batchNumber":40,"usersCreated":1000,"totalCreated":40000}
+[INFO] 2025-01-26T18:39:09.832Z [Execution time: 2264ms] - Completed batch 43 {"batchNumber":43,"usersCreated":1000,"totalCreated":43000}
+[INFO] 2025-01-26T18:39:09.837Z [Execution time: 2262ms] - Completed batch 42 {"batchNumber":42,"usersCreated":1000,"totalCreated":42000}
+[INFO] 2025-01-26T18:39:09.845Z [Execution time: 2199ms] - Completed batch 48 {"batchNumber":48,"usersCreated":1000,"totalCreated":48000}
+[INFO] 2025-01-26T18:39:09.936Z - Processing batch 41/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:09.940Z - Processing batch 44/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:09.943Z - Processing batch 43/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:09.946Z - Processing batch 49/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:12.175Z [Execution time: 2235ms] - Completed batch 44 {"batchNumber":44,"usersCreated":1000,"totalCreated":44000}
+[INFO] 2025-01-26T18:39:12.277Z - Processing batch 45/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:12.290Z [Execution time: 2347ms] - Completed batch 43 {"batchNumber":43,"usersCreated":1000,"totalCreated":43000}
+[INFO] 2025-01-26T18:39:12.297Z [Execution time: 2362ms] - Completed batch 41 {"batchNumber":41,"usersCreated":1000,"totalCreated":41000}
+[INFO] 2025-01-26T18:39:12.304Z [Execution time: 2358ms] - Completed batch 49 {"batchNumber":49,"usersCreated":1000,"totalCreated":49000}
+[INFO] 2025-01-26T18:39:12.403Z - Processing batch 44/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:12.408Z - Processing batch 42/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:12.410Z - Processing batch 50/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:13.617Z [Execution time: 1339ms] - Completed batch 45 {"batchNumber":45,"usersCreated":1000,"totalCreated":45000}
+[INFO] 2025-01-26T18:39:13.733Z - Processing batch 46/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:14.465Z [Execution time: 2057ms] - Completed batch 42 {"batchNumber":42,"usersCreated":1000,"totalCreated":42000}
+[INFO] 2025-01-26T18:39:14.472Z [Execution time: 2069ms] - Completed batch 44 {"batchNumber":44,"usersCreated":1000,"totalCreated":44000}
+[INFO] 2025-01-26T18:39:14.474Z [Execution time: 2064ms] - Completed batch 50 {"batchNumber":50,"usersCreated":1000,"totalCreated":50000}
+[INFO] 2025-01-26T18:39:14.576Z - Processing batch 43/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:14.579Z - Processing batch 45/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:14.581Z - Processing batch 51/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:15.591Z [Execution time: 1858ms] - Completed batch 46 {"batchNumber":46,"usersCreated":1000,"totalCreated":46000}
+[INFO] 2025-01-26T18:39:15.696Z - Processing batch 47/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:16.539Z [Execution time: 1960ms] - Completed batch 45 {"batchNumber":45,"usersCreated":1000,"totalCreated":45000}
+[INFO] 2025-01-26T18:39:16.541Z [Execution time: 1960ms] - Completed batch 51 {"batchNumber":51,"usersCreated":1000,"totalCreated":51000}
+[INFO] 2025-01-26T18:39:16.541Z [Execution time: 1965ms] - Completed batch 43 {"batchNumber":43,"usersCreated":1000,"totalCreated":43000}
+[INFO] 2025-01-26T18:39:16.646Z - Processing batch 46/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:16.648Z - Processing batch 52/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:16.651Z - Processing batch 44/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:17.302Z [Execution time: 1606ms] - Completed batch 47 {"batchNumber":47,"usersCreated":1000,"totalCreated":47000}
+[INFO] 2025-01-26T18:39:17.407Z - Processing batch 48/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:18.817Z [Execution time: 2168ms] - Completed batch 52 {"batchNumber":52,"usersCreated":1000,"totalCreated":52000}
+[INFO] 2025-01-26T18:39:18.824Z [Execution time: 2173ms] - Completed batch 44 {"batchNumber":44,"usersCreated":1000,"totalCreated":44000}
+[INFO] 2025-01-26T18:39:18.825Z [Execution time: 2178ms] - Completed batch 46 {"batchNumber":46,"usersCreated":1000,"totalCreated":46000}
+[INFO] 2025-01-26T18:39:18.926Z - Processing batch 53/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:18.929Z - Processing batch 45/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:18.932Z - Processing batch 47/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:19.366Z [Execution time: 1959ms] - Completed batch 48 {"batchNumber":48,"usersCreated":1000,"totalCreated":48000}
+[INFO] 2025-01-26T18:39:19.473Z - Processing batch 49/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:20.970Z [Execution time: 2038ms] - Completed batch 47 {"batchNumber":47,"usersCreated":1000,"totalCreated":47000}
+[INFO] 2025-01-26T18:39:20.971Z [Execution time: 2045ms] - Completed batch 53 {"batchNumber":53,"usersCreated":1000,"totalCreated":53000}
+[INFO] 2025-01-26T18:39:20.978Z [Execution time: 2049ms] - Completed batch 45 {"batchNumber":45,"usersCreated":1000,"totalCreated":45000}
+[INFO] 2025-01-26T18:39:21.078Z - Processing batch 48/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:21.080Z - Processing batch 54/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:21.082Z - Processing batch 46/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:21.693Z [Execution time: 2220ms] - Completed batch 49 {"batchNumber":49,"usersCreated":1000,"totalCreated":49000}
+[INFO] 2025-01-26T18:39:21.798Z - Processing batch 50/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:23.671Z [Execution time: 2588ms] - Completed batch 46 {"batchNumber":46,"usersCreated":1000,"totalCreated":46000}
+[INFO] 2025-01-26T18:39:23.686Z [Execution time: 2605ms] - Completed batch 54 {"batchNumber":54,"usersCreated":1000,"totalCreated":54000}
+[INFO] 2025-01-26T18:39:23.695Z [Execution time: 2617ms] - Completed batch 48 {"batchNumber":48,"usersCreated":1000,"totalCreated":48000}
+[INFO] 2025-01-26T18:39:23.784Z - Processing batch 47/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:23.791Z [Execution time: 1992ms] - Completed batch 50 {"batchNumber":50,"usersCreated":1000,"totalCreated":50000}
+[INFO] 2025-01-26T18:39:23.792Z - Processing batch 55/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:23.796Z - Processing batch 49/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:23.906Z - Processing batch 51/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:26.184Z [Execution time: 2401ms] - Completed batch 47 {"batchNumber":47,"usersCreated":1000,"totalCreated":47000}
+[INFO] 2025-01-26T18:39:26.187Z [Execution time: 2395ms] - Completed batch 55 {"batchNumber":55,"usersCreated":1000,"totalCreated":55000}
+[INFO] 2025-01-26T18:39:26.193Z [Execution time: 2396ms] - Completed batch 49 {"batchNumber":49,"usersCreated":1000,"totalCreated":49000}
+[INFO] 2025-01-26T18:39:26.202Z [Execution time: 2295ms] - Completed batch 51 {"batchNumber":51,"usersCreated":1000,"totalCreated":51000}
+[INFO] 2025-01-26T18:39:26.295Z - Processing batch 48/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:26.298Z - Processing batch 56/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:26.300Z - Processing batch 50/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:26.311Z - Processing batch 52/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:28.690Z [Execution time: 2390ms] - Completed batch 50 {"batchNumber":50,"usersCreated":1000,"totalCreated":50000}
+[INFO] 2025-01-26T18:39:28.694Z [Execution time: 2398ms] - Completed batch 48 {"batchNumber":48,"usersCreated":1000,"totalCreated":48000}
+[INFO] 2025-01-26T18:39:28.698Z [Execution time: 2401ms] - Completed batch 56 {"batchNumber":56,"usersCreated":1000,"totalCreated":56000}
+[INFO] 2025-01-26T18:39:28.721Z [Execution time: 2411ms] - Completed batch 52 {"batchNumber":52,"usersCreated":1000,"totalCreated":52000}
+[INFO] 2025-01-26T18:39:28.791Z - Processing batch 51/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:28.806Z - Processing batch 49/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:28.808Z - Processing batch 57/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:28.837Z - Processing batch 53/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:30.791Z [Execution time: 2000ms] - Completed batch 51 {"batchNumber":51,"usersCreated":1000,"totalCreated":51000}
+[INFO] 2025-01-26T18:39:30.809Z [Execution time: 2003ms] - Completed batch 49 {"batchNumber":49,"usersCreated":1000,"totalCreated":49000}
+[INFO] 2025-01-26T18:39:30.809Z [Execution time: 2001ms] - Completed batch 57 {"batchNumber":57,"usersCreated":1000,"totalCreated":57000}
+[INFO] 2025-01-26T18:39:30.905Z - Processing batch 52/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:30.922Z - Processing batch 50/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:30.926Z - Processing batch 58/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:31.044Z [Execution time: 2207ms] - Completed batch 53 {"batchNumber":53,"usersCreated":1000,"totalCreated":53000}
+[INFO] 2025-01-26T18:39:31.157Z - Processing batch 54/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:32.853Z [Execution time: 1927ms] - Completed batch 58 {"batchNumber":58,"usersCreated":1000,"totalCreated":58000}
+[INFO] 2025-01-26T18:39:32.858Z [Execution time: 1953ms] - Completed batch 52 {"batchNumber":52,"usersCreated":1000,"totalCreated":52000}
+[INFO] 2025-01-26T18:39:32.860Z [Execution time: 1938ms] - Completed batch 50 {"batchNumber":50,"usersCreated":1000,"totalCreated":50000}
+[INFO] 2025-01-26T18:39:32.958Z - Processing batch 59/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:32.960Z - Processing batch 53/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:32.963Z - Processing batch 51/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:33.163Z [Execution time: 2006ms] - Completed batch 54 {"batchNumber":54,"usersCreated":1000,"totalCreated":54000}
+[INFO] 2025-01-26T18:39:33.266Z - Processing batch 55/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:35.119Z [Execution time: 2159ms] - Completed batch 53 {"batchNumber":53,"usersCreated":1000,"totalCreated":53000}
+[INFO] 2025-01-26T18:39:35.123Z [Execution time: 2165ms] - Completed batch 59 {"batchNumber":59,"usersCreated":1000,"totalCreated":59000}
+[INFO] 2025-01-26T18:39:35.123Z [Execution time: 2160ms] - Completed batch 51 {"batchNumber":51,"usersCreated":1000,"totalCreated":51000}
+[INFO] 2025-01-26T18:39:35.226Z - Processing batch 54/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:35.229Z - Processing batch 60/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:35.231Z - Processing batch 52/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:35.403Z [Execution time: 2137ms] - Completed batch 55 {"batchNumber":55,"usersCreated":1000,"totalCreated":55000}
+[INFO] 2025-01-26T18:39:35.505Z - Processing batch 56/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:37.344Z [Execution time: 2119ms] - Completed batch 54 {"batchNumber":54,"usersCreated":1000,"totalCreated":54000}
+[INFO] 2025-01-26T18:39:37.348Z [Execution time: 2120ms] - Completed batch 60 {"batchNumber":60,"usersCreated":1000,"totalCreated":60000}
+[INFO] 2025-01-26T18:39:37.349Z [Execution time: 2118ms] - Completed batch 52 {"batchNumber":52,"usersCreated":1000,"totalCreated":52000}
+[INFO] 2025-01-26T18:39:37.452Z - Processing batch 55/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:37.455Z - Processing batch 61/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:37.457Z - Processing batch 53/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:37.729Z [Execution time: 2225ms] - Completed batch 56 {"batchNumber":56,"usersCreated":1000,"totalCreated":56000}
+[INFO] 2025-01-26T18:39:37.843Z - Processing batch 57/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:39.543Z [Execution time: 2086ms] - Completed batch 53 {"batchNumber":53,"usersCreated":1000,"totalCreated":53000}
+[INFO] 2025-01-26T18:39:39.545Z [Execution time: 2093ms] - Completed batch 55 {"batchNumber":55,"usersCreated":1000,"totalCreated":55000}
+[INFO] 2025-01-26T18:39:39.657Z - Processing batch 54/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:39.660Z - Processing batch 56/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:39.814Z [Execution time: 1972ms] - Completed batch 57 {"batchNumber":57,"usersCreated":1000,"totalCreated":57000}
+[INFO] 2025-01-26T18:39:39.921Z - Processing batch 58/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:41.876Z [Execution time: 2216ms] - Completed batch 56 {"batchNumber":56,"usersCreated":1000,"totalCreated":56000}
+[INFO] 2025-01-26T18:39:41.878Z [Execution time: 2221ms] - Completed batch 54 {"batchNumber":54,"usersCreated":1000,"totalCreated":54000}
+[INFO] 2025-01-26T18:39:41.982Z - Processing batch 57/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:41.986Z - Processing batch 55/100 {"currentBatchSize":1000}
+[INFO] 2025-01-26T18:39:44.306Z [Execution time: 2320ms] - Completed batch 55 {"batchNumber":55,"usersCreated":1000,"totalCreated":55000}
+[INFO] 2025-01-26T18:39:44.409Z - Processing batch 56/100 {"currentBatchSize":1000}
